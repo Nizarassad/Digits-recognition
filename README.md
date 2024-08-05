@@ -6,11 +6,17 @@
 This study compares the performance of Convolutional Neural Network (CNN) and Support Vector Machine (SVM) models in classifying the MNIST dataset. The analysis explores the applicability of each model, including the hierarchical feature extraction of CNNs and the hyperplane optimization of SVMs. The results provide insights into the strengths and weaknesses of each model, offering guidance for selecting appropriate models for image classification tasks.
 
 
-## Methods
 
-### Dataset
+### 📚 Dataset
 
-The MNIST dataset contains 70,000 grayscale images of handwritten digits, each 28x28 pixels in size. The dataset is evenly distributed among ten classes (digits 0-9), ensuring a balanced training ground for model evaluation.
+The MNIST dataset contains 70,000 grayscale images of handwritten digits, each 28x28 pixels in size. 
+- https://yann.lecun.com/exdb/mnist/
+
+  
+### 🤖 Models
+- Download the trained weights manyally through this link:
+- https://drive.google.com/drive/folders/17KA9Qhir1mj_cgzGpLV2kk8alqcq7Qyo?usp=sharing
+
 
 ### Convolutional Neural Network (CNN)
 
@@ -46,17 +52,6 @@ A systematic approach was used to evaluate the models, including a comparison of
 ### Comprehensive Evaluation
 
 - **ROC Curve & AUC:** Both models achieved an AUC of 0.99, indicating high discriminative power.
-
-### Visualizations
-
-- **Figure 1:** Confusion Matrix for CNN  
-_(Include visual representation here)_
-
-- **Figure 2:** Confusion Matrix for SVM  
-_(Include visual representation here)_
-
-- **Figure 3:** Micro-Average ROC Curve  
-_(Include visual representation here)_
 
 ## Conclusion
 
