@@ -1,7 +1,7 @@
 # A Comparative Study in Digits Recognition Through Convolutional Neural Network and Support Vector Machines
 
 **Author:** Nizar Assad  
-**Email:** Nizar.Assad@city.ac.uk
+**Email:** assadnizar40@gmail.com
 
 This study compares the performance of Convolutional Neural Network (CNN) and Support Vector Machine (SVM) models in classifying the MNIST dataset. The analysis explores the applicability of each model, including the hierarchical feature extraction of CNNs and the hyperplane optimization of SVMs. The results provide insights into the strengths and weaknesses of each model, offering guidance for selecting appropriate models for image classification tasks.
 
