@@ -3,13 +3,8 @@
 **Author:** Nizar Assad  
 **Email:** Nizar.Assad@city.ac.uk
 
-## Abstract
-
 This study compares the performance of Convolutional Neural Network (CNN) and Support Vector Machine (SVM) models in classifying the MNIST dataset. The analysis explores the applicability of each model, including the hierarchical feature extraction of CNNs and the hyperplane optimization of SVMs. The results provide insights into the strengths and weaknesses of each model, offering guidance for selecting appropriate models for image classification tasks.
 
-## Introduction
-
-This research evaluates the Convolutional Neural Network (CNN) and Support Vector Machine (SVM) models for classifying handwritten digits from the MNIST dataset. MNIST, a common benchmark in machine learning, provides a balanced and detailed dataset for comparison. The study aims to highlight the comparative advantages of CNNs and SVMs, aiding in the selection of models for image classification tasks.
 
 ## Methods
 
