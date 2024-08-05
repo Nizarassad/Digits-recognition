@@ -1,0 +1,6 @@
+The link below contains the best-performing models from the 2 architectures used in this study:
+
+-SVM
+-CNN
+
+https://drive.google.com/drive/folders/17KA9Qhir1mj_cgzGpLV2kk8alqcq7Qyo?usp=sharing
